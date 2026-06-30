@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Travel Recommendation Website</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <nav>
+            <h2>Travel Explorer</h2>
+
+            <div>
+                <a href="travel_recommendation.html">Home</a>
+                <a href="about.html">About Us</a>
+                <a href="contact.html">Contact Us</a>
+            </div>
+
+            <div>
+                <input type="text" id="searchInput" placeholder="Search">
+                <button onclick="searchRecommendation()">Search</button>
+                <button onclick="clearResults()">Reset</button>
+            </div>
+        </nav>
+
+        <section class="hero">
+            <h1>Explore Dream Destinations</h1>
+            <p>
+                Discover beatiful beaches, acient temples,
+                and amazing countries around the world.
+            </p>
+        </section>
+
+        <section id="results" class="results"></section>
+        <script src="travel_recommendation.js"></script>
+    </body>
+</html>

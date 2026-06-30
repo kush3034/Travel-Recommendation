@@ -1,0 +1,101 @@
+{
+    "countries": [
+      {
+        "id": 1,
+        "name": "India",
+        "cities": [
+          {
+            "name": "Mumbai, Maharashtra",
+            "imageUrl": "images/mumbai.jpg",
+            "description": "Mumbai is India's financial capital and the home of the Bollywood film industry. The city is famous for its vibrant nightlife, iconic landmarks, bustling markets, luxury hotels, and diverse street food. It blends modern skyscrapers with rich colonial heritage."
+          },
+          {
+            "name": "Delhi, National Capital Territory of India",
+            "imageUrl": "images/delhi.jpg",
+            "description": "Delhi, the capital of India, is known for its historical monuments, bustling markets, and political significance. It offers a perfect mix of ancient heritage and modern infrastructure, making it one of India's most visited cities."
+          },
+          {
+            "name": "Bengaluru, Karnataka",
+            "imageUrl": "images/bengaluru.jpg",
+            "description": "Delhi, the capital of India, is known for its historical monuments, bustling markets, and political significance. It offers a perfect mix of ancient heritage and modern infrastructure, making it one of India's most visited cities."
+          },
+          {
+            "name": "Jaipur, Rajashan",
+            "imageUrl": "images/jaipur.jpg",
+            "description": "Jaipur, popularly known as the Pink City, is famous for its magnificent forts, royal palaces, colorful markets, and rich Rajasthani culture. It is one of the most popular tourist destinations in India."
+          },
+          {
+            "name": "Ahmedabad, Gujarat",
+            "imageUrl": "images/ahmedabad.jpg",
+            "description": "Ahmedabad is the largest city in Gujarat and a major center for business, education, and culture. It is India's first UNESCO World Heritage City, known for its historic old city, modern riverfront, and vibrant food scene."
+          }
+        ]
+      }
+    ],
+
+    "temples": [
+      {
+        "id": 1,
+        "name": "Kashi Vishwanath Temple, Varanasi, Uttar Pradesh",
+        "imageUrl": "images/kashi_vishwanath_temple.jpg",
+        "description": "Kashi Vishwanath Temple is one of the holiest Hindu temples dedicated to Lord Shiva and is one of the twelve Jyotirlingas. Located on the banks of the sacred Ganges River, it attracts millions of devotees every year. The temple is renowned for its spiritual significance, golden spire, and rich history dating back centuries."
+      },
+      {
+        "id": 2,
+        "name": "Meenakshi Amman Temple, Madurai, Tamil Nadu, India",
+        "imageUrl": "images/meenakshi_amman_temple.jpg",
+        "description": "The Meenakshi Amman Temple is dedicated to Goddess Meenakshi and Lord Sundareswarar (Shiva). Famous for its magnificent Dravidian architecture, the temple features towering colorful gopurams (gateway towers), intricate sculptures, and a thousand-pillared hall. It is one of South India's greatest architectural masterpieces."
+      },
+      {
+        "id": 3,
+        "name": "Jagannath Temple, Puri, Odisha, India",
+        "imageUrl": "images/jagannath_temple.jpg",
+        "description": "Temple is dedicated to Lord Jagannath, an incarnation of Lord Vishnu. It is one of the four sacred Char Dham pilgrimage sites. The temple is world-famous for the annual Rath Yatra (Chariot Festival), where millions of devotees gather to witness the grand procession of the deities."
+      },
+      {
+        "id": 4,
+        "name": "Somnath Temple, Gir Somnath, Gujrat",
+        "imageUrl": "images/somnath_temple.jpg",
+        "description": "Somnath Temple is the first among the twelve Jyotirlingas of Lord Shiva. Situated on the Arabian Sea coast, the temple has been destroyed and rebuilt several times throughout history, symbolizing resilience and faith. Its stunning seaside setting and magnificent architecture make it one of India's most visited temples."
+      },
+      {
+        "id": 5,
+        "name": "Golden Temple, Amritsar, Panjab",
+        "imageUrl": "images/golden_temple.jpg",
+        "description": "The Golden Temple, also known as Sri Harmandir Sahib, is the holiest shrine in Sikhism. Surrounded by the sacred Amrit Sarovar (Pool of Nectar), its gold-covered structure is breathtaking, especially when illuminated at night. The temple is also famous for its community kitchen (Langar), which serves free meals to tens of thousands of visitors every day."
+      }
+    ],
+    "beaches": [
+      {
+        "id": 1,
+        "name": "Radhanagar Beach, Swaraj Dweep, Andaman & Nicobar Islands",
+        "imageUrl": "images/radhanagar_beach.jpg",
+        "description": "Radhanagar Beach is widely regarded as one of the best beaches in Asia. It is famous for its powdery white sand, crystal-clear turquoise water, and spectacular sunsets. The calm waters make it perfect for swimming, relaxing, and photography."
+      },
+      {
+        "id": 2,
+        "name": "Palolem Beach, Canacona, South Goa",
+        "imageUrl": "images/palolem_beach.jpg",
+        "description": "Palolem Beach is a crescent-shaped beach surrounded by coconut palms and colorful beach huts. It's known for its peaceful atmosphere, kayaking, dolphin-spotting boat trips, and vibrant nightlife while still being more relaxed than many North Goa beaches."
+      },
+      {
+        "id":3,
+        "name": "Varkala Beach, Varkala, Kerala",
+        "imageUrl": "images/varkala_beach.jpg",
+        "description": "Varkala Beach is unique for its dramatic red cliffs overlooking the Arabian Sea. Visitors enjoy breathtaking sunsets, cliff-top cafés, yoga centers, Ayurvedic spas, and a relaxed atmosphere that attracts travelers from around the world."
+      },
+      {
+        "id":4,
+        "name": "Om Beach, Gokarna, Karnataka",
+        "imageUrl": "images/om_beach.jpg",
+        "description": "Named after its natural Om shape, Om Beach is popular for trekking, boating, kayaking, and stunning sunset views. It offers a quieter and more scenic alternative to Goa's crowded beaches."
+      },
+      {
+        "id": 5,
+        "name": "Kovalam Beach, Kovalam, Kerala",
+        "imageUrl": "images/kovalam_beach.jpg",
+        "description": "Kovalam Beach is one of India's most iconic coastal destinations. It is known for its golden sand, iconic lighthouse, water sports, surfing, and beautiful Arabian Sea views. The beach is divided into Lighthouse Beach, Hawa Beach, and Samudra Beach."
+      }
+    ]
+}
+  
